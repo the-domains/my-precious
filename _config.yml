@@ -1,4 +1,5 @@
 layout_spectrum: 0.3284698
+typography_spectrum: 0.5143369
 color:
   saturation: 0.6706882
   lightness: 0.581
@@ -10,5 +11,4 @@ color:
     - '#CBD3D6'
     - '#D92974'
   rhythmicContrast: 0.007332323
-typography_spectrum: 0.6795617
 name: My precious
