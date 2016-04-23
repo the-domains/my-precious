@@ -1,14 +1,14 @@
 layout_spectrum: 0.3284698
-typography_spectrum: 0.6795617
 color:
   saturation: 0.6706882
   lightness: 0.581
   brandStrength: 0.9698797
-  rhythmicContrast: 0.007332323
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#060D1D'
+    - '#666561'
+    - '#B79E7D'
+    - '#CBD3D6'
+    - '#D92974'
+  rhythmicContrast: 0.007332323
+typography_spectrum: 0.6795617
 name: My precious
