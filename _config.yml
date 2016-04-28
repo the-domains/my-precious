@@ -1,14 +1,29 @@
+name: My precious
+favicon: null
 layout_spectrum: 0.3284698
 typography_spectrum: 0.5143369
+title: My precious
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6706882
-  lightness: 0.581
-  brandStrength: 0.9698797
   brandColors:
     - '#060D1D'
     - '#666561'
     - '#B79E7D'
     - '#CBD3D6'
     - '#D92974'
+  brandStrength: 0.9698797
+  lightness: 0.581
+  saturation: 0.6706882
   rhythmicContrast: 0.007332323
-name: My precious
+purpose: []
