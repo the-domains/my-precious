@@ -1,29 +1,41 @@
-name: My precious
-favicon: null
-layout_spectrum: 0.3284698
-typography_spectrum: 0.5143369
 title: My precious
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6706882
+  brandStrength: 0.9698797
+  lightness: 0.581
+  brandColors:
+    - '#E0DCD3'
+    - '#97896F'
+    - '#C0B29D'
+    - '#0A0C10'
+    - '#5F5D4F'
+  rhythmicContrast: 0.007332323
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: My precious
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#060D1D'
-    - '#666561'
-    - '#B79E7D'
-    - '#CBD3D6'
-    - '#D92974'
-  brandStrength: 0.9698797
-  lightness: 0.581
-  saturation: 0.6706882
-  rhythmicContrast: 0.007332323
-purpose: []
+typography_spectrum: 0.5143369
+layout_spectrum: 0.3284698
