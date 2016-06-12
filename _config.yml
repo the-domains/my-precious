@@ -18,10 +18,10 @@ color:
   lightness: 0.6182796
   brandColors:
     - '#FFFFFF'
-    - '#A6B25C'
-    - '#1C2514'
-    - '#6C8443'
-    - '#163AB9'
+    - '#8EC051'
+    - '#598E48'
+    - '#000000'
+    - '#FE69BC'
   rhythmicContrast: 0.007332323
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: My precious
 favicon: null
+name: My precious
 opengraph:
   image: null
   type: null
