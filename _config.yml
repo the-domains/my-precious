@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.6706882
+  saturation: 0.7885305
   brandStrength: 0.9698797
-  lightness: 0.581
+  lightness: 0.6182796
   brandColors:
-    - '#F0F1EC'
-    - '#A59F89'
-    - '#0B0D0C'
-    - '#464438'
-    - '#6FE5DA'
+    - '#FFFFFF'
+    - '#A6B25C'
+    - '#1C2514'
+    - '#6C8443'
+    - '#163AB9'
   rhythmicContrast: 0.007332323
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: My precious
+favicon: null
 opengraph:
   image: null
   type: null
